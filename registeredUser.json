@@ -1,0 +1,17 @@
+{
+  "userName": "Test User",
+  "userEmail": "user1766170591873@domain.com",
+  "title": "Mr",
+  "password": "Password@123",
+  "invalidPassword": "invalidPassword@123",
+  "day": "10",
+  "month": "5",
+  "year": "1995",
+  "firstName": "Test",
+  "lastName": "User",
+  "address": "123 Test Street",
+  "state": "London",
+  "city": "London",
+  "zipcode": "E1 6AN",
+  "mobileNumber": "1234567890"
+}
